@@ -27,6 +27,5 @@ Hello, my name is Alp. I am 15 years old. I'm Developing Discord bots. I'm makin
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Xpeawxdd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
     <br>
-    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xpeawxdd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
