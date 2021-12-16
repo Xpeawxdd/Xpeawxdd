@@ -3,6 +3,7 @@ Hello, my name is Alp. I am 15 years old. I'm Developing Discord bots. I'm makin
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Xpeawxdd&color=dc143c"/>
+    [![GitHub Xpeawxdd](https://img.shields.io/github/followers/Xpeawxdd?label=follow&style=social)](https://github.com/Xpeawxdd)&nbsp;
 </div>
 
 <div align="center">
@@ -19,8 +20,12 @@ Hello, my name is Alp. I am 15 years old. I'm Developing Discord bots. I'm makin
 ## 💻 Technologies I Use
 
 <div align="center">
-    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-    <img alt="Node.js" align="center" src="https://img.shields.io/badge/-Nodejs-024a27?style=flat-square&logo=node.js&logoColor=white"/>
+    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+    ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+    ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 </div>
 
 ## 📈 Github Stats
