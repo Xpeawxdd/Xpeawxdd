@@ -6,7 +6,7 @@ Hello, my name is Alp. I am 16 years old
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/919175176724291644" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/919175176724291644/"></a>
+    <a href="https://discord.com/users/595932224973570079" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/595932224973570079/"></a>
 </div>
 
 ## ⚡ Contact
